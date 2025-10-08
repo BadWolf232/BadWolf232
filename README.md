@@ -18,9 +18,8 @@ Sou estudante de Ciência da Computação pela Univesidade do Vale do Rio dos Si
 
 ## Github Stats 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BadWolf232&theme=nightowl&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BadWolf232&layout=compact&size_weight=0.5&count_weight=1.5&theme=nightowl)
+<img width="42%" src="https://github-readme-stats.vercel.app/api?username=BadWolf232&theme=nightowl&show_icons=true"> 
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BadWolf232&layout=compact&size_weight=0.5&count_weight=1.5&theme=nightowl">
 
 ## Minhas Contribuições 
 
