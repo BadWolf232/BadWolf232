@@ -18,10 +18,11 @@ Sou estudante de Ciência da Computação pela Univesidade do Vale do Rio dos Si
 
 ## Github Stats 
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api?username=BadWolf232&theme=nightowl&show_icons=true"> 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BadWolf232&layout=compact&size_weight=0.5&count_weight=1.5&theme=nightowl">
+<img width="42%" src="https://github-readme-stats.vercel.app/api?username=BadWolf232&theme=nightowl&show_icons=true">  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BadWolf232&layout=compact&size_weight=0.5&count_weight=1.5&theme=nightowl">
 
 ## Minhas Contribuições 
+
+![Snake animation] (
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BadWolf232&repo=relogio-data&bg_color=191970&border_color=708090&show_icons=true&icon_color=B22222&title_color=6495ED&text_color=FFFAFA)](https://github.com/BadWolf232/relogio-data)
 
