@@ -28,10 +28,10 @@ Sou estudante de Ciência da Computação pela Univesidade do Vale do Rio dos Si
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BadWolf232/BadWolf232/output/github-contribution-grid-snake.svg">
 </picture>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BadWolf232&repo=relogio-data&bg_color=191970&border_color=708090&show_icons=true&icon_color=B22222&title_color=6495ED&text_color=FFFAFA)](https://github.com/BadWolf232/relogio-data)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BadWolf232&repo=spotify-alura-25&bg_color=191970&border_color=708090&show_icons=true&icon_color=B22222&title_color=6495ED&text_color=FFFAFA)](https://github.com/BadWolf232/spotify-alura-25)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BadWolf232&repo=SinosConnect&bg_color=191970&border_color=708090&show_icons=true&icon_color=B22222&title_color=6495ED&text_color=FFFAFA)](https://github.com/BadWolf232/SinosConnect)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BadWolf232&repo=portifolio&bg_color=191970&border_color=708090&show_icons=true&icon_color=B22222&title_color=6495ED&text_color=FFFAFA)](https://github.com/BadWolf232/portifolio)
+
