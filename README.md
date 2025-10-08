@@ -29,9 +29,5 @@ Sou estudante de Ciência da Computação pela Univesidade do Vale do Rio dos Si
 </picture>
 
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BadWolf232&repo=spotify-alura-25&bg_color=191970&border_color=708090&show_icons=true&icon_color=B22222&title_color=6495ED&text_color=FFFAFA)](https://github.com/BadWolf232/spotify-alura-25)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BadWolf232&repo=SinosConnect&bg_color=191970&border_color=708090&show_icons=true&icon_color=B22222&title_color=6495ED&text_color=FFFAFA)](https://github.com/BadWolf232/SinosConnect)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BadWolf232&repo=portifolio&bg_color=191970&border_color=708090&show_icons=true&icon_color=B22222&title_color=6495ED&text_color=FFFAFA)](https://github.com/BadWolf232/portifolio)
 
